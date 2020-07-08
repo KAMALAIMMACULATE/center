@@ -1,0 +1,15 @@
+body{
+	padding: 0;
+	margin: 0;
+	/*background-color: blue*/
+}
+.maincontainer{
+	width: 1200px;
+	margin:0 auto;
+}
+.content{
+	background-size:cover;
+	height: 600px;
+	background-repeat:no-repeat;
+	background-image: url(../image/home-hero.jpg);
+}
